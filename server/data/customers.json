@@ -1,0 +1,26 @@
+[
+      {
+            "id": 1,
+            "name": "Lakshmi",
+            "city": " Phoenix ",
+            "orderTotal": 40.99
+      },
+      {
+            "id": 2,
+            "name": "Kiran",
+            "city": "Los Angeles ",
+            "orderTotal": 89.99
+      },
+      {
+            "id": 3,
+            "name": "Swarun",
+            "city": " Las Vegas ",
+            "orderTotal": 29.99
+      },
+      {
+            "id": 4,
+            "name": "Preetham",
+            "city": "Seattle",
+            "orderTotal": 15.99
+      }
+]
